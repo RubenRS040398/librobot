@@ -115,7 +115,7 @@ A més d'incloure les següents llibreries:
 ¿?
 
 <h2 id="llicencia">Llicència</h2>
-¿?
+MIT
 
 <h2 id="autors">Autors</h2>
 Daniel García Castro<br>
