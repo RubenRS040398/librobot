@@ -24,7 +24,19 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 ¿?
 
 <h2 id="components">Components</h2>
-¿?
+|                **Nom**                | **Quantitat** |                                                                              **Imatge**                                                                             |
+|:-------------------------------------:|:-------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|              Arduino Nano             |       1       |                       <img src="https://roboticafacil.es/wp-content/uploads/2017/04/Arduino-Nano-V3-2-e1492726589312.jpg" alt="" width="240">                       |
+|            Raspberry Pi 4b            |       1       |                                    <img src="https://es.farnell.com/productimages/large/en_GB/3051885-40.jpg" alt="" width="240">                                   |
+|                Batería                |       1       |                                     <img src="https://www.ninco.com/images/product/1/large/pl_1_1_8411.jpg" alt="" width="240">                                     |
+| Arducam 5MP 1080p OV5647 Raspberry Pi |       1       |                                  <img src="https://diotronic.com/22112-large_default/camara-5mp-ov5647-rpi.jpg" alt="" width="240">                                 |
+|              Micròfon USB             |       1       |                            <img src="https://diotronic.com/25594-large_default/micr%C3%B3fono-de-solapa-con-clip.jpg" alt="" width="240">                           |
+|               Protoboard              |       2       |          <img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5E75/0236/E7D3/0030/608F/0A0C/6D10/89ED/Protoboad_400_1.jpg" alt="" width="240">         |
+|          Sensor de proximitat         |       1       |                                    <img src="https://m.media-amazon.com/images/I/81ZgSqRmtcL._AC_SX522_.jpg" alt="" width="240">                                    |
+|                  Relé                 |       1       |                                   <img src="https://sc04.alicdn.com/kf/Hefe96c920c554101879c60f836290a2bR.jpg" alt="" width="240">                                  |
+|              Controladors             |       3       |          <img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5FFD/F7AD/ADB1/BDCA/56DA/0A0C/6D12/501D/L298_Puente_H_3.jpg" alt="" width="240">         |
+|                 Motors                |       9       | <img src="https://www.bds-tech.com.hk/image/cache/catalog/VEX%20EDR/EDR%20Accessories%20-%20Motion/276-2177%202-Wire%20Motor%20393-800x800.jpg" alt="" width="240"> |
+|              Succionador              |       1       |                    <img src="https://cdn.shopify.com/s/files/1/0058/3145/8904/products/5194Y48vx0L._SL1100.jpg?v=1597440457" alt="" width="240">                    |
 
 <h2 id="esquema-de-hardware">Esquema de *hardware*</h2>
 ¿?
