@@ -102,13 +102,13 @@ A més d'incloure les següents llibreries:
 </tbody>
 </table>
 
-<h2 id="esquema-de-hardware">Esquema de *hardware*</h2>
+<h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
 ¿?
 
 <h2 id="peces-3d">Peces 3D</h2>
 ¿?
 
-<h2 id="arquitectura-de-software">Arquitectura de *software*</h2>
+<h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
 ¿?
 
 <h2 id="video">Vídeo</h2>
