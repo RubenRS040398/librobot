@@ -18,7 +18,14 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 ¿?
 
 <h2 id="requisits">Requisits</h2>
-¿?
+Per fer funcionar el robot fem servir els següents entorns:
+- C++ (variant de l'Arduino)
+- Python (Raspberry Pi)
+A més d'incloure les següents llibreries:
+- Math (C++)
+- OpenCV (Pyhton)
+- NumPy (Python)
+- TensorFlow (Python)
 
 <h2 id="com-funciona">Com funciona?</h2>
 ¿?
