@@ -1,35 +1,39 @@
 # Librobot
 Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.
 
-# Taula de continguts
+## Taula de continguts
 ¿?
 
-# En què consiteix?
+## En què consiteix?
 ¿?
 
-# Requisits
+## Requisits
 ¿?
 
-# Com funciona?
+## Com funciona?
 ¿?
 
-# Components
+## Components
 ¿?
 
-# Esquema de hardware
+## Esquema de *hardware*
 ¿?
 
-# Peces 3D
+## Peces 3D
 ¿?
 
-# Arquitectura de software
+## Arquitectura de *software*
 ¿?
 
-# Vídeo
+## Vídeo
 ¿?
 
-# Llicència
+## Llicència
 ¿?
 
-# Autors
-¿?
+## Autors
+Daniel García Castro
+Maria Jordana Marín
+Rubén Ramos Segarra
+Ferran Antón Serrano
+Oscar Pocurull Rodríguez
