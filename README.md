@@ -111,6 +111,13 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
 
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
 <img src="arquitecturasoftware.PNG" alt="" width="480">
+La implementació del robot es divideix en els següents mòduls operatius:
+<ul>
+ <li>Mòdul Central: Interconecta tots els mòduls.</li>
+ <li>Mòdul Càmera: Conté l’algorisme de Visió per computador per reconèixer els títols dels llibres.</li>
+ <li>Mòdul Veu: Conté l’algorisme de reconeixement de veu.</li>
+ <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments dels robot.</li>
+</ul>
 
 <h2 id="video">Vídeo</h2>
 ¿?
