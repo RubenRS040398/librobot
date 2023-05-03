@@ -1,5 +1,6 @@
 # Librobot
-Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.
+Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.<br>
+<img src="librobot.PNG" alt="" width="240">
 
 ## Taula de continguts
 1. [En què consiteix?](#en-que-consiteix)
