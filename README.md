@@ -33,7 +33,7 @@ A més d'incloure les següents llibreries:
 </ul>
 
 <h2 id="com-funciona">Com funciona?</h2>
-¿?
+Suposem que el robot està col·locat davant d'una prestatgeria, i una persona vol sol·licitar un llibre. El robot escolta per veu a la persona que demana el llibre (títol) i aquest el tradueix a text. A continuació inicia una cerca a través de les prestatgeries, comprovant llibre per llibre si es el títol del llibre especificat mitjançant una càmara (Visió per Computador). En cas de que sigui aquest llibre, es procedirà a agafar el llibre mitjançant un braç i el retirarà de la prestatgeria.
 
 <h2 id="components">Components</h2>
 <table>
