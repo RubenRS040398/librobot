@@ -14,38 +14,38 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 10. [Autors](#autors)
 11. [Bibliografia](#bibliografia)
 
-## En què consiteix?
+<h2 id="en-que-consiteix">En què consiteix?</h2>
 ¿?
 
-## Requisits
+<h2 id="requisits">Requisits</h2>
 ¿?
 
-## Com funciona?
+<h2 id="com-funciona">Com funciona?</h2>
 ¿?
 
-## Components
+<h2 id="components">Components</h2>
 ¿?
 
-## Esquema de *hardware*
+<h2 id="esquema-de-hardware">Esquema de *hardware*</h2>
 ¿?
 
-## Peces 3D
+<h2 id="peces-3d">Peces 3D</h2>
 ¿?
 
-## Arquitectura de *software*
+<h2 id="arquitectura-de-software">Arquitectura de *software*</h2>
 ¿?
 
-## Vídeo
+<h2 id="video">Vídeo</h2>
 ¿?
 
-## Llicència
+<h2 id="llicencia">Llicència</h2>
 ¿?
 
-## Autors
+<h2 id="autors">Autors</h2>
 Daniel García Castro<br>
 Maria Jordana Marín<br>
 Rubén Ramos Segarra<br>
 Ferran Antón Serrano<br>
 Oscar Pocurull Rodríguez
 
-## Bibliografia
+<h2 id="bibliografia">Bibliografia</h2>
