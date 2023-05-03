@@ -1,5 +1,5 @@
 # Librobot
-Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.<br>
+Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.
 <img src="librobot.PNG" alt="" width="240">
 
 ## Taula de continguts
@@ -104,13 +104,13 @@ A més d'incloure les següents llibreries:
 </table>
 
 <h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
-¿?
+<img src="hardwarescheme.PNG" alt="" width="240">
 
 <h2 id="peces-3d">Peces 3D</h2>
 ¿?
 
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
-¿?
+<img src="arquitecturasoftware.PNG" alt="" width="240">
 
 <h2 id="video">Vídeo</h2>
 ¿?
