@@ -2,17 +2,17 @@
 Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.
 
 ## Taula de continguts
-1. [En què consiteix?](#En què consiteix?)
-2. Requisits
-3. Com funciona?
-4. Components
-5. Esquema de *hardware*
-6. Peces 3D
-7. Arquitectura de *software*
-8. Vídeo
-9. Llicència
-10. Autors
-11. Bibliografia
+1. [En què consiteix?](#en-que-consiteix)
+2. [Requisits](#requisits)
+3. [Com funciona?](#com-funciona)
+4. [Components](#components)
+5. [Esquema de *hardware*](#esquema-de-hardware)
+6. [Peces 3D](#peces-3d)
+7. [Arquitectura de *software*](#arquitectura-de-software)
+8. [Vídeo](#video)
+9. [Llicència](#llicencia)
+10. [Autors](#autors)
+11. [Bibliografia](#bibliografia)
 
 ## En què consiteix?
 ¿?
