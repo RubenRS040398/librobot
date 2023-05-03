@@ -110,7 +110,7 @@ A més d'incloure les següents llibreries:
 ¿?
 
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
-<img src="arquitecturasoftware.PNG" alt="" width="640">
+<img src="arquitecturasoftware.PNG" alt="" width="480">
 
 <h2 id="video">Vídeo</h2>
 ¿?
