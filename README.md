@@ -41,7 +41,7 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
   <tr>
     <td class="tg-c3ow">Raspberry Pi 4b</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow"><img src="https://es.farnell.com/productimages/large/en_GB/3051885-40.jpg" alt="" width="240"></td>
+    <td class="tg-c3ow"><img src="http://img.pccomponentes.com/articles/21/216504/p4-1-2.jpg" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Batería</td>
