@@ -1,0 +1,11 @@
+Riscos
+
+
+- Que un llibre que sigui molt gran, no el pugui agafar.
+- Que el Arduino nano no pugui amb els 7 motors.
+- Que dos llibres molt semblants, junts, els detecti com a un.
+- Que el títol del llibre no sigui exacte.
+- Que el braç/estructura del robot no sigui suficientment resistent.
+- Que el reconeixement de veu no sigui exacte i no es correspongui amb els títols del llibres.
+- Que el robot ensopegui amb l'estanteria i es trenquin els components.
+- Que el robot no detecti l'estanteria.
