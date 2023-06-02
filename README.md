@@ -90,7 +90,7 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
   </tr>
   <tr>
     <td class="tg-c3ow">Motors</td>
-    <td class="tg-c3ow">9</td>
+    <td class="tg-c3ow">7</td>
     <td class="tg-c3ow"><img src="https://www.bds-tech.com.hk/image/cache/catalog/VEX%20EDR/EDR%20Accessories%20-%20Motion/276-2177%202-Wire%20Motor%20393-800x800.jpg" alt="" width="240"></td>
   </tr>
   <tr>
