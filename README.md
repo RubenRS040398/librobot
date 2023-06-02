@@ -16,7 +16,7 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 11. [Bibliografia](#bibliografia)
 
 <h2 id="en-que-consiteix">En què consiteix?</h2>
-Aquest robot és un sistema que inclou components físics i electrònics amb la capacitat de realitzar quatre moviments (graus de llibertat) diferents, cadascun dels quals implica una base mòbil davant d'un prestatge amb una barra vertical que mou un braç per agafar un llibre. El sistema utilitza una càmara, un micròfon per sol·licitar un llibre i algorismes per identificar i localitzar llibres específics a la prestatgeria, i el braç està dissenyat per estendre's i arronsar-se per agafar aquests. Amb aquest punt de partida inicial establit, es faran servir una sèrie de components electrònics que permetràn posar en funcionament el robot ajustant-se a les restriccions de moviment anteriors.
+Aquest robot és un sistema que inclou components físics i electrònics amb la capacitat de realitzar quatre moviments (graus de llibertat) diferents, cadascun dels quals implica una base mòbil davant d'un prestatge amb una barra vertical que mou un braç per agafar un llibre. El sistema utilitza una càmara, un micròfon per sol·licitar un llibre, una ventosa al final del braç i algorismes per identificar i localitzar llibres específics a la prestatgeria, i el braç està dissenyat per estendre's i arronsar-se, succionant els llibres i deixant-los a sobre d'un suport metàl·lic. Amb aquest punt de partida inicial establit, es faran servir una sèrie de components electrònics que permetràn posar en funcionament el robot ajustant-se a les restriccions de moviment anteriors.
 
 <h2 id="requisits">Requisits</h2>
 Per fer funcionar el robot fem servir els següents entorns:
@@ -33,7 +33,7 @@ A més d'incloure les següents llibreries:
 </ul>
 
 <h2 id="com-funciona">Com funciona?</h2>
-Suposem que el robot està col·locat davant d'una prestatgeria, i una persona vol sol·licitar un llibre. El robot escolta per veu a la persona que demana el llibre (títol) i aquest el tradueix a text. A continuació inicia una cerca a través de les prestatgeries, comprovant llibre per llibre si es el títol del llibre especificat mitjançant una càmara (Visió per Computador). En cas de que sigui aquest llibre, es procedirà a agafar el llibre mitjançant un braç i el retirarà de la prestatgeria.
+Suposem que el robot està col·locat davant d'una prestatgeria, i una persona vol sol·licitar un llibre. El robot escolta per veu a la persona que demana el llibre (títol) i aquest el tradueix a text. A continuació inicia una cerca a través de les prestatgeries, comprovant llibre per llibre si es el títol del llibre especificat mitjançant una càmara (Visió per Computador). En cas de que sigui aquest llibre, es procedirà a agafar el llibre mitjançant un braç amb ventosa i el retirarà de la prestatgeria, depositant-lo a sobre del suport que tenim sota el braç. 
 
 <h2 id="components">Components</h2>
 <table>
