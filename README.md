@@ -1,5 +1,5 @@
 # Librobot
-Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu.
+Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu i que el succiona depositant-lo a un suport per poder-lo agafar
 <img src="librobot.PNG" alt="">
 
 ## Taula de continguts
@@ -47,7 +47,7 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
 <tbody>
   <tr>
     <td class="tg-c3ow">Arduino Nano</td>
-    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">2</td>
     <td class="tg-c3ow"><img src="https://roboticafacil.es/wp-content/uploads/2017/04/Arduino-Nano-V3-2-e1492726589312.jpg" alt="" width="240"></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
   </tr>
   <tr>
     <td class="tg-c3ow">Batería</td>
-    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">2</td>
     <td class="tg-c3ow"><img src="https://www.ninco.com/images/product/1/large/pl_1_1_8411.jpg" alt="" width="240"></td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
   </tr>
   <tr>
     <td class="tg-c3ow">Controladors</td>
-    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">4</td>
     <td class="tg-c3ow"><img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5FFD/F7AD/ADB1/BDCA/56DA/0A0C/6D12/501D/L298_Puente_H_3.jpg" alt="" width="240"></td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ La implementació del robot es divideix en els següents mòduls operatius:
  <li>Mòdul Central: Interconecta tots els mòduls.</li>
  <li>Mòdul Càmera: Conté l’algorisme de Visió per computador per reconèixer els títols dels llibres.</li>
  <li>Mòdul Veu: Conté l’algorisme de reconeixement de veu.</li>
- <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments dels robot.</li>
+ <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments del robot. Tant del braç com de les rodes</li>
 </ul>
 
 <h2 id="video">Vídeo</h2>
