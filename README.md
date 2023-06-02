@@ -76,11 +76,6 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
     <td class="tg-c3ow"><img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5E75/0236/E7D3/0030/608F/0A0C/6D10/89ED/Protoboad_400_1.jpg" alt="" width="240"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Sensor de proximitat</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow"><img src="https://m.media-amazon.com/images/I/81ZgSqRmtcL._AC_SX522_.jpg" alt="" width="240"></td>
-  </tr>
-  <tr>
     <td class="tg-c3ow">Relé</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow"><img src="https://sc04.alicdn.com/kf/Hefe96c920c554101879c60f836290a2bR.jpg" alt="" width="240"></td>
