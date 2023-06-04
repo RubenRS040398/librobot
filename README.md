@@ -59,7 +59,7 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
     <td class="tg-c3ow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/640px-Raspberry_Pi_4_Model_B_-_Side.jpg" alt="" width="240"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Bateria</td>
+    <td class="tg-c3ow">Bateries 7,2V</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow"><img src="https://www.ninco.com/images/product/1/large/pl_1_1_8411.jpg" alt="" width="240"></td>
   </tr>
