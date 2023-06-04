@@ -3,7 +3,7 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 <br> </br>
 
 
-<img src="librobot.PNG" alt="">
+<img src="images/librobot.PNG" alt="">
 
 ## Taula de continguts
 1. [En què consiteix?](#en-que-consiteix)
@@ -59,29 +59,29 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
     <td class="tg-c3ow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/640px-Raspberry_Pi_4_Model_B_-_Side.jpg" alt="" width="240"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Batería</td>
+    <td class="tg-c3ow">Bateria</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow"><img src="https://www.ninco.com/images/product/1/large/pl_1_1_8411.jpg" alt="" width="240"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Arducam 5MP 1080p OV5647 Raspberry Pi</td>
+    <td class="tg-c3ow">Raspberry Pi Cam</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow"><img src="https://diotronic.com/22112-large_default/camara-5mp-ov5647-rpi.jpg" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Micròfon USB</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow"><img src="https://diotronic.com/25594-large_default/micr%C3%B3fono-de-solapa-con-clip.jpg" alt="" width="240"></td>
+    <td class="tg-c3ow"><img src="https://m.media-amazon.com/images/I/61aLrDHYj+L._AC_SL1300_.jpg" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Protoboard</td>
-    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">1</td>
     <td class="tg-c3ow"><img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5E75/0236/E7D3/0030/608F/0A0C/6D10/89ED/Protoboad_400_1.jpg" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Relé</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow"><img src="https://sc04.alicdn.com/kf/Hefe96c920c554101879c60f836290a2bR.jpg" alt="" width="240"></td>
+    <td class="tg-c3ow"><img src="https://createc3d.com/1244-large_default/comprar-modulo-rele-5v-compatible-con-arduino-1-canal-precio-oferta.webp" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Controladors</td>
@@ -102,13 +102,13 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
 </table>
 
 <h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
-<img src="hardwarescheme.PNG" alt="" width="640">
+<img src="images/librobot_bb.jpg" alt="" width="640">
 
 <h2 id="peces-3d">Peces 3D</h2>
 ¿?
 
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
-<img src="arquitecturasoftware.PNG" alt="" width="480">
+<img src="images/arquitecturasoftware.PNG" alt="" width="480">
 La implementació del robot es divideix en els següents mòduls operatius:
 <ul>
  <li>Mòdul Central: Interconecta tots els mòduls.</li>
