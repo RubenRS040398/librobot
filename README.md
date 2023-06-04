@@ -84,13 +84,13 @@ Suposem que el robot està col·locat davant d'una prestatgeria, i una persona v
     <td class="tg-c3ow"><img src="https://createc3d.com/1244-large_default/comprar-modulo-rele-5v-compatible-con-arduino-1-canal-precio-oferta.webp" alt="" width="240"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Controladors</td>
-    <td class="tg-c3ow">4</td>
+    <td class="tg-c3ow">Controladores</td>
+    <td class="tg-c3ow">3</td>
     <td class="tg-c3ow"><img src="https://www.electrio.es/WebRoot/StoreES3/Shops/80295836/5FFD/F7AD/ADB1/BDCA/56DA/0A0C/6D12/501D/L298_Puente_H_3.jpg" alt="" width="240"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Motors</td>
-    <td class="tg-c3ow">7</td>
+    <td class="tg-c3ow">6</td>
     <td class="tg-c3ow"><img src="https://www.bds-tech.com.hk/image/cache/catalog/VEX%20EDR/EDR%20Accessories%20-%20Motion/276-2177%202-Wire%20Motor%20393-800x800.jpg" alt="" width="240"></td>
   </tr>
   <tr>
