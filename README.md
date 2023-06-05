@@ -44,9 +44,9 @@ A més d'incloure les següents llibreries:
 
 1. Clona aquest repositori:
 
-   ```terminal
-   git clone https://github.com/RubenRS040398/librobot.git
-   ```
+  ```terminal
+  git clone https://github.com/RubenRS040398/librobot.git
+  ```
 
 2. Instal·la les llibreries necessàries:
 
