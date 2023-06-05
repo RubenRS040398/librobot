@@ -66,8 +66,8 @@ A més d'incloure les següents llibreries:
   ```
 
 <h2 id=amazing-contributions> Contribucions Espectaculars </h2>
-El nostre robot està pensat per facilitar la feina a llibreters, personal de biblioteca i fins i tot a nivell industrial per magatzems. Òbviament el nostre robot és una versió petita i prototipada, feta a petita escala però escalable i portable a altres entorns o dimensions. Com que fa automàticament la tasca de buscar un nom d'un llibre, reconèixer-lo i agafarlo, fa més senzilla la tasca de buscar a prestatgeries i agafar un llibre. Això pot prevenir certs accidents laborals o riscos que poden patir les persones i/o treballadors al realitzar aquestes tasques. També pot ajudar a reduir l'estrés sobre el cos humà a l'estar de peu molt de temps, carregar amb molt de pes (pot prevenir el mal d'esquena a la gent que fa un esforç per poder estirarse, pujar a una escala per agafar un llibre...) i a més, com és interactiu al demanar el llibre per detecció de veu, és més divertit i accesible per més persones.
-Per últim, cal destacar, com s'ha exposat abans, que el robot és escalable a altres entorns o funcionalitats. Pot fer-se servir per agafar o detectar llibres, però si es volgués, podria modificar-se per agafar algun altre tipus d'objecte. També es podria augmentar l'escala del robot;fer-lo més gran; amb una ventosa més potent o un sistema de recolecció d'objectes més ferm per poder agafar objectes més pesats; canviar el sistema de detecció d'onjectes per en comptes de detectar llibres detectar algun altre tipus d'objecte...
+El nostre robot està pensat per facilitar la feina a llibreters, personal de biblioteca i fins i tot en l'àmbit industrial per magatzems. Òbviament, el nostre robot és una versió petita i prototipada, feta a petita escala però escalable i portable a altres entorns o dimensions. Com que fa automàticament la tasca de buscar un nom d'un llibre, reconèixer-lo i agafar-lo, fa més senzilla la tasca de buscar a prestatgeries i agafar un llibre. Això pot prevenir certs accidents laborals o riscos que poden patir les persones i/o treballadors en dur a terme aquestes tasques. També pot ajudar a reduir l'estrès sobre el cos humà en estar dempeus molt de temps, carregar amb molt de pes (pot prevenir el mal d'esquena a la gent que fa un esforç per poder estirar-se, pujar a una escala per agafar un llibre...) i a més, com és interactiu al demanar el llibre per detecció de veu, és més divertit i accessible per més persones. 
+Per acabar, cal destacar, com s'ha exposat abans, que el robot és escalable a altres entorns o funcionalitats. Pot fer-se servir per agafar o detectar llibres, però si es volgués, podria modificar-se per agafar algun altre tipus d'objecte. També es podria augmentar l'escala del robot; fer-lo més gran; amb una ventosa més potent o un sistema de recol·lecció d'objectes més ferm per poder agafar objectes més pesats; canviar el sistema de detecció d'objectes per en comptes de detectar llibres detectar algun altre tipus d'objecte... 
 En resum, aquest robot contribueix a facilitar una tasca que pot ser feixuga per a certs tipus de persones i es pot escalar i portar a altres entorns i funcionalitats, tenint un potencial atractiu per poder modificar, canviar i implementar en altres necessitats.
 <h2 id="components">Components</h2>
 <table>
@@ -133,7 +133,7 @@ En resum, aquest robot contribueix a facilitar una tasca que pot ser feixuga per
 </table>
 
 <h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
-<img src="images/librobot_bb.jpg" alt="" width="640">
+<img src="images/librobot_bb.jpg" alt="">
 
 
 <h2 id="peces-3d">Peces 3D</h2>
