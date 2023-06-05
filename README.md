@@ -36,7 +36,25 @@ A més d'incloure les següents llibreries:
 </ul>
 
 <h2 id="com-funciona">Com funciona?</h2>
-Suposem que el robot està col·locat davant d'una prestatgeria, i una persona vol sol·licitar un llibre. El robot escolta per veu a la persona que demana el llibre (títol) i aquest el tradueix a text. A continuació inicia una cerca a través de les prestatgeries, comprovant llibre per llibre si es el títol del llibre especificat mitjançant una càmara (Visió per Computador). En cas de que sigui aquest llibre, es procedirà a agafar el llibre mitjançant un braç amb ventosa i el retirarà de la prestatgeria, depositant-lo a sobre del suport que tenim sota el braç. 
+1. Clona aquest repositori:
+
+   ```terminal
+   git clone https://github.com/RubenRS040398/librobot.git
+   ```
+   
+2. Instal·la les llibreries necessàries:
+
+- Si es fa servir conda:
+
+  ```terminal
+  conda install -c menpo opencv3
+  ```
+ 
+- Si es fa servir pip:
+
+  ```terminal
+  pip install opencv-python
+  ```
 
 <h2 id="components">Components</h2>
 <table>
