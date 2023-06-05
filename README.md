@@ -51,6 +51,10 @@ A més d'incloure les següents llibreries:
 2. Instal·la les llibreries necessàries:
 
   ```terminal
+  cd librobot
+  ```
+
+  ```terminal
   pip install -r requirements.txt
   ```
 
