@@ -24,7 +24,7 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 A continuació, presentem el nostre projecte final de l'assignatura de robòtica (RLP) a la Universitat Autònoma de Barcelona. Aquest robot és un sistema que inclou components físics i electrònics amb la capacitat de realitzar quatre moviments (graus de llibertat) diferents, cadascun dels quals implica una base mòbil davant d'un prestatge amb una barra vertical que mou un braç per agafar un llibre. El sistema utilitza una càmara, un micròfon per sol·licitar un llibre, una ventosa al final del braç i algorismes per identificar i localitzar llibres específics a la prestatgeria, i el braç està dissenyat per estendre's i arronsar-se, succionant els llibres i deixant-los a sobre d'un suport metàl·lic. Amb aquest punt de partida inicial establit, es faran servir una sèrie de components electrònics que permetràn posar en funcionament el robot ajustant-se a les restriccions de moviment anteriors. En aquest Git s'explicarà com vam construir el robot i què vam fer pel seu correcte funcionament.
 
 <img src="images/librobot.PNG" alt=""><br/>
-<center><i>Il·lustració inicial del robot (Rubén R.S.)</i></center>
+<i>Il·lustració inicial del robot (Rubén R.S.)</i>
 
 <h2 id="requisits">Requisits</h2>
 Per fer funcionar el robot fem servir els següents entorns:
