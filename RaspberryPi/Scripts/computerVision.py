@@ -2,7 +2,6 @@ import numpy as np
 import cv2                      # opencv
 from picamera import PiCamera
 import pytesseract
-import glob
 import time
 
 # Elimina las lineas que estén muy juntas
