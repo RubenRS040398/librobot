@@ -55,6 +55,18 @@ A més d'incloure les següents llibreries:
   pip install pytesseract
   pip install pyserial
   pip install picamera
+  pip install SpeechRecognition
+  pip install pyaudio
+  pip install googletrans==3.1.0a0
+  pip install gTTS
+  pip3 install text2digits
+  ```
+
+Python terminal
+
+  ```terminal
+  import nltk
+  nltk.download()
   ```
 
 <h2 id=amazing-contributions> Contribucions Espectaculars </h2>
