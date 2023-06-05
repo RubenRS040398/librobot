@@ -168,7 +168,7 @@ Ferran Antón Serrano<br>
 Oscar Pocurull Rodríguez
 
 <h2 id="bibliografia">Bibliografia</h2>
-Aquest projecte ha sigut inspirat pels següents projectes d'Internet:
+Aquest projecte ha sigut inspirat pels següents projectes d'Internet: <br>
 1. https://rlpengineeringsschooluab2022.wordpress.com/2022/06/01/nonabot/<br>
 2. https://rlpengineeringsschooluab2022.wordpress.com/2022/06/01/98/
 
