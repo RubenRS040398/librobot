@@ -9,14 +9,17 @@ Robot que interactua amb una persona per buscar un llibre a les prestatgeries do
 1. [En què consiteix?](#en-que-consiteix)
 2. [Requisits](#requisits)
 3. [Com funciona?](#com-funciona)
-4. [Components](#components)
-5. [Esquema de *hardware*](#esquema-de-hardware)
-6. [Peces 3D](#peces-3d)
-7. [Arquitectura de *software*](#arquitectura-de-software)
-8. [Vídeo](#video)
-9. [Llicència](#llicencia)
-10. [Autors](#autors)
-11. [Bibliografia](#bibliografia)
+4. [Contribucions Espectaculars](#amazing-contributions)
+5. [Components](#components)
+6. [Esquema de *hardware*](#esquema-de-hardware)
+7. [Peces 3D](#peces-3d)
+8. [Arquitectura de *software*](#arquitectura-de-software)
+9. [Vídeo](#video)
+10. [Contribucions](#contribucions)
+11. [Citacions](#Citacions)
+12. [Llicència](#llicencia)
+13. [Autors](#autors)
+14. [Bibliografia](#bibliografia)
 
 <h2 id="en-que-consiteix">En què consiteix?</h2>
 A continuació, presentem el nostre projecte final de l'assignatura de robòtica (RLP) a la Universitat Autònoma de Barcelona. Aquest robot és un sistema que inclou components físics i electrònics amb la capacitat de realitzar quatre moviments (graus de llibertat) diferents, cadascun dels quals implica una base mòbil davant d'un prestatge amb una barra vertical que mou un braç per agafar un llibre. El sistema utilitza una càmara, un micròfon per sol·licitar un llibre, una ventosa al final del braç i algorismes per identificar i localitzar llibres específics a la prestatgeria, i el braç està dissenyat per estendre's i arronsar-se, succionant els llibres i deixant-los a sobre d'un suport metàl·lic. Amb aquest punt de partida inicial establit, es faran servir una sèrie de components electrònics que permetràn posar en funcionament el robot ajustant-se a les restriccions de moviment anteriors. En aquest Git s'explicarà com vam construir el robot i què vam fer pel seu correcte funcionament.
@@ -56,7 +59,7 @@ A més d'incloure les següents llibreries:
   pip install opencv-python
   ```
 
-<h2 id=amazing contributions> Contribucions Espectaculars </h2>
+<h2 id=amazing-contributions> Contribucions Espectaculars </h2>
 El nostre robot està pensat per facilitar la feina a llibreters, personal de biblioteca i fins i tot a nivell industrial per magatzems. Òbviament el nostre robot és una versió petita i prototipada, feta a petita escala però escalable i portable a altres entorns o dimensions. Com que fa automàticament la tasca de buscar un nom d'un llibre, reconèixer-lo i agafarlo, fa més senzilla la tasca de buscar a prestatgeries i agafar un llibre. Això pot prevenir certs accidents laborals o riscos que poden patir les persones i/o treballadors al realitzar aquestes tasques. També pot ajudar a reduir l'estrés sobre el cos humà a l'estar de peu molt de temps, carregar amb molt de pes (pot prevenir el mal d'esquena a la gent que fa un esforç per poder estirarse, pujar a una escala per agafar un llibre...) i a més, com és interactiu al demanar el llibre per detecció de veu, és més divertit i accesible per més persones.
 Per últim, cal destacar, com s'ha exposat abans, que el robot és escalable a altres entorns o funcionalitats. Pot fer-se servir per agafar o detectar llibres, però si es volgués, podria modificar-se per agafar algun altre tipus d'objecte. També es podria augmentar l'escala del robot;fer-lo més gran; amb una ventosa més potent o un sistema de recolecció d'objectes més ferm per poder agafar objectes més pesats; canviar el sistema de detecció d'onjectes per en comptes de detectar llibres detectar algun altre tipus d'objecte...
 En resum, aquest robot contribueix a facilitar una tasca que pot ser feixuga per a certs tipus de persones i es pot escalar i portar a altres entorns i funcionalitats, tenint un potencial atractiu per poder modificar, canviar i implementar en altres necessitats.
