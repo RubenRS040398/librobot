@@ -137,7 +137,7 @@ La implementació del robot es divideix en els següents mòduls operatius:
 El primer que es fa és activar el mòdul de detecció de veu (s'escolta el llibre que es vol recollir). Seguidament, activem el mòdul de la càmera per veure si en la posició inicial es troba el llibre en la visió de la càmera. Tant si es troba com si no, activem el mòdul de moviment per poder moure el robot i encaixar-lo en una posició on tingui el llibre centrat amb el braç per poder-lo agafar.
 
 <h2 id="video">Vídeo</h2>
-[![LIBROBOT](https://img.youtube.com/vi/lkXDEsOFu7Q/mqdefault.jpg) ](https://www.youtube.com/watch?v=lkXDEsOFu7Q)
+<a href="https://youtu.be/lkXDEsOFu7Q"><img src="http://i3.ytimg.com/vi/lkXDEsOFu7Q/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 <h2 id=contribucions>Contribucions</h2>
 Tothom és lliure de contribuir amb qualsevol cosa que pugui potencialment millorar el projecte, sigui en temes de disseny, arquitectura del software, codi, components hardware... Qualsevol cosa és benvinguda, i apreciem les contribucions. Si et sents capaç, contacta amb el propietari d'aquest GitHub sense cap tipus de problema i contestarem el més aviat possible.
