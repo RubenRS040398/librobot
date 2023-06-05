@@ -132,7 +132,7 @@ La implementació del robot es divideix en els següents mòduls operatius:
  <li>Mòdul Central: Interconecta tots els mòduls.</li>
  <li>Mòdul Càmera: Conté l’algorisme de Visió per computador per reconèixer els títols dels llibres.</li>
  <li>Mòdul Veu: Conté l’algorisme de reconeixement de veu.</li>
- <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments del robot. Tant del braç com de les rodes</li>
+ <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments del robot. Tant del braç com de les rodes.</li>
 </ul>
 
 <h2 id="video">Vídeo</h2>
