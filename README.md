@@ -26,20 +26,6 @@ A continuació, presentem el nostre projecte final de l'assignatura de robòtica
 <img src="images/librobot.PNG" alt=""><br/>
 <i>Il·lustració inicial del robot (Rubén R.S.)</i>
 
-<h2 id="requisits">Requisits</h2>
-Per fer funcionar el robot fem servir els següents entorns:
-<ul>
- <li>C++ (variant de l'Arduino)</li>
- <li>Python (Raspberry Pi)</li>
-</ul>
-A més d'incloure les següents llibreries:
-<ul>
- <li>Math (C++)</li>
- <li>OpenCV (Pyhton)</li>
- <li>NumPy (Python)</li>
- <li>TensorFlow (Python)</li>
-</ul>
-
 <h2 id="com-funciona">Com funciona?</h2>
 
 1. Clona aquest repositori:
