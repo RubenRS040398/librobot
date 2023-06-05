@@ -51,12 +51,16 @@ A més d'incloure les següents llibreries:
 
   ```terminal
   conda install -c menpo opencv3
+  conda install numpy
+  conda install -c conda-forge tensorflow
   ```
  
 - Si es fa servir pip:
 
   ```terminal
   pip install opencv-python
+  pip install numpy
+  pip install tensorflow
   ```
 
 <h2 id=amazing-contributions> Contribucions Espectaculars </h2>
