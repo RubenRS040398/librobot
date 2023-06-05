@@ -129,10 +129,12 @@ En resum, aquest robot contribueix a facilitar una tasca que pot ser feixuga per
 <h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
 <img src="images/librobot_bb.jpg" alt="" width="640">
 
+
 <h2 id="peces-3d">Peces 3D</h2>
 ¿?
 
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
+En la següent imatge es mostra l'esquema software que fa servir el nostre robot:
 <img src="images/arquitecturasoftware.PNG" alt="" width="480">
 La implementació del robot es divideix en els següents mòduls operatius:
 <ul>
@@ -141,6 +143,7 @@ La implementació del robot es divideix en els següents mòduls operatius:
  <li>Mòdul Veu: Conté l’algorisme de reconeixement de veu.</li>
  <li>Mòdul de moviment: Conté l’algorisme per controlar els moviments del robot. Tant del braç com de les rodes.</li>
 </ul>
+El primer que es fa és activar el mòdul de detecció de veu (s'escolta el llibre que es vol recollir). Seguidament, activem el mòdul de la càmera per veure si en la posició inicial es troba el llibre en la visió de la càmera. Tant si es troba com si no, activem el mòdul de moviment per poder moure el robot i encaixar-lo en una posició on tingui el llibre centrat amb el braç per poder-lo agafar.
 
 <h2 id="video">Vídeo</h2>
 ¿?
