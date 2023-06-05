@@ -134,6 +134,9 @@ En resum, aquest robot contribueix a facilitar una tasca que pot ser feixuga per
 
 <h2 id="esquema-de-hardware">Esquema de <i>hardware</i></h2>
 <img src="images/librobot_bb.jpg" alt="">
+La Raspberry Pi 4 controla els 2 Arduino Nano (connectats per USB), el micròfon USB i la Raspberry Pi Cam, està connectada a una bateria portàtil. 
+La base té 5 motors controlats per 3 controladores i un Arduino, els dos motors d'un costat connectats a una controladora, els de l'altre costat a una altra i el de la roda del centre connectat a una altra. En aquesta última controladora també està connectat el motor que puja i baixa. Els motors estan connectats directament a les contrladores, les controladores estan conectades al Arduino Nano i les 3 reben alimentació d'una bateria de 7,2 Volts.
+L'altre Arduino controla el succionador mitjançant un relé connectat a una altra bateria de 7,2 Volts.
 
 
 <h2 id="peces-3d">Peces 3D</h2>
