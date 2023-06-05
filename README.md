@@ -2,8 +2,7 @@
 Robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu i que el succiona per poder-lo agafar.
 <br> </br>
 
-
-<img src="images/librobot.PNG" alt="">
+<img src="images/librobot_final.jpg" alt="">
 
 ## Taula de continguts
 1. [En què consiteix?](#en-que-consiteix)
