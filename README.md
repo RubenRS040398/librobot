@@ -49,21 +49,12 @@ A més d'incloure les següents llibreries:
 
 2. Instal·la les llibreries necessàries:
 
-- Si es fa servir conda:
-
-  ```terminal
-  conda install -c menpo opencv3
-  conda install numpy
-  conda install -c conda-forge tensorflow
-  ```
- 
-- Si es fa servir pip:
-
   ```terminal
   pip install opencv-python
   pip install numpy
   pip install pytesseract
   pip install pyserial
+  pip install picamera
   ```
 
 <h2 id=amazing-contributions> Contribucions Espectaculars </h2>
