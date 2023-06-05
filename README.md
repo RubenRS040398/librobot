@@ -62,7 +62,8 @@ A més d'incloure les següents llibreries:
   ```terminal
   pip install opencv-python
   pip install numpy
-  pip install tensorflow
+  pip install pytesseract
+  pip install pyserial
   ```
 
 <h2 id=amazing-contributions> Contribucions Espectaculars </h2>
