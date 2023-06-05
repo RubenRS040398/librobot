@@ -41,6 +41,7 @@ A més d'incloure les següents llibreries:
 </ul>
 
 <h2 id="com-funciona">Com funciona?</h2>
+
 1. Clona aquest repositori:
 
    ```terminal
@@ -50,16 +51,7 @@ A més d'incloure les següents llibreries:
 2. Instal·la les llibreries necessàries:
 
   ```terminal
-  pip install opencv-python
-  pip install numpy
-  pip install pytesseract
-  pip install pyserial
-  pip install picamera
-  pip install SpeechRecognition
-  pip install pyaudio
-  pip install googletrans==3.1.0a0
-  pip install gTTS
-  pip3 install text2digits
+  pip install -r requirements.txt
   ```
 
 Python terminal

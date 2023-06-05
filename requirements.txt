@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pytesseract
+pyserial
+picamera
+SpeechRecognition
+pyaudio
+googletrans==3.1.0a0
+gTTS
+text2digits
