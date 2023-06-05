@@ -124,10 +124,6 @@ La Raspberry Pi 4 controla els 2 Arduino Nano (connectats per USB), el micròfon
 La base té 5 motors controlats per 3 controladores i un Arduino, els dos motors d'un costat connectats a una controladora, els de l'altre costat a una altra i el de la roda del centre connectat a una altra. En aquesta última controladora també està connectat el motor que puja i baixa. Els motors estan connectats directament a les contrladores, les controladores estan conectades al Arduino Nano i les 3 reben alimentació d'una bateria de 7,2 Volts.
 L'altre Arduino controla el succionador mitjançant un relé connectat a una altra bateria de 7,2 Volts.
 
-
-<h2 id="peces-3d">Peces 3D</h2>
-¿?
-
 <h2 id="arquitectura-de-software">Arquitectura de <i>software</i></h2>
 En la següent imatge es mostra l'esquema software que fa servir el nostre robot:
 <img src="images/arquitecturasoftware.PNG" alt="" width="480">
@@ -141,7 +137,7 @@ La implementació del robot es divideix en els següents mòduls operatius:
 El primer que es fa és activar el mòdul de detecció de veu (s'escolta el llibre que es vol recollir). Seguidament, activem el mòdul de la càmera per veure si en la posició inicial es troba el llibre en la visió de la càmera. Tant si es troba com si no, activem el mòdul de moviment per poder moure el robot i encaixar-lo en una posició on tingui el llibre centrat amb el braç per poder-lo agafar.
 
 <h2 id="video">Vídeo</h2>
-¿?
+[![LIBROBOT](https://img.youtube.com/vi/lkXDEsOFu7Q/mqdefault.jpg)](https://www.youtube.com/watch?v=lkXDEsOFu7Q)
 
 <h2 id=contribucions>Contribucions</h2>
 Tothom és lliure de contribuir amb qualsevol cosa que pugui potencialment millorar el projecte, sigui en temes de disseny, arquitectura del software, codi, components hardware... Qualsevol cosa és benvinguda, i apreciem les contribucions. Si et sents capaç, contacta amb el propietari d'aquest GitHub sense cap tipus de problema i contestarem el més aviat possible.
