@@ -155,10 +155,10 @@ El primer que es fa és activar el mòdul de detecció de veu (s'escolta el llib
 ¿?
 
 <h2 id=contribucions>Contribucions</h2>
-Tothom és lliure de contribuir amb qualsevol cosa que pugui potencialment millorar el projecte, sigui en temes de disseny, arquitectura del software, codi, components hardware... Qualsevol cosa és benvinguda, i apreciem les contribucions. Si et sents capaç, contacta amb el propietari d'aquest GitHub sense cap tipus de problema i contestarem el més aviat posible.
+Tothom és lliure de contribuir amb qualsevol cosa que pugui potencialment millorar el projecte, sigui en temes de disseny, arquitectura del software, codi, components hardware... Qualsevol cosa és benvinguda, i apreciem les contribucions. Si et sents capaç, contacta amb el propietari d'aquest GitHub sense cap tipus de problema i contestarem el més aviat possible.
 
 <h2 id=Citacions> Citacions </h2>
-Si fas servir aquest projecte com a model acadèmic de treball o industrial, sisplau, cita'ns. Fes servir aquest format: "Librobot, robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu i que el succiona per poder-lo agafar", 2023, nom dels autors (els nostres noms) i un link a aquest GitHub.
+Si fas servir aquest projecte com a model acadèmic de treball o industrial, si us plau, cita'ns. Fes servir aquest format: "Librobot, robot que interactua amb una persona per buscar un llibre a les prestatgeries donant un títol per veu i que el succiona per poder-lo agafar", 2023, nom dels autors (els nostres noms) i un enllaç a aquest GitHub.
 
 <h2 id="llicencia">Llicència</h2>
 MIT
